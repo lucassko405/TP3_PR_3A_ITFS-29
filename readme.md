@@ -23,3 +23,5 @@ Rediseño de Sistema Distribuido (Cliente-Servidor)
     /servidor: Código en Python que recibe las tareas por socket y administra los hilos de ejecución. 
 
     /cliente: Código en Python para la simulación de envío de tareas y recepción de resultados.
+
+    Enlace a git: https://github.com/lucassko405/TP3_PR_3A_ITFS-29.git
